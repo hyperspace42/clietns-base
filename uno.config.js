@@ -11,9 +11,7 @@ import {
 } from 'unocss';
 
 export default defineConfig({
-	shortcuts: [
-		// ...
-	],
+	shortcuts: {},
 	theme: {
 		colors: {
 			// ...

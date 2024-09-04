@@ -9,9 +9,9 @@ const config = {
 		// See https://kit.svelte.dev/docs/adapters for more information about adapters.
 		adapter: adapter(),
 		alias: {
-			'@components': path.resolve('./src/lib/components'),
+			'@components': path.resolve('./src/components'),
 			'@lib': path.resolve('./src/lib'),
-			'@routes': path.resolve('./src/lib/routes')
+			'@routes': path.resolve('./src/routes')
 		}
 	}
 };
